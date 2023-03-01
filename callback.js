@@ -11,7 +11,9 @@ function greetEvening(name){
 }
 
 greetings(greetingHandler, "Saadi");
+// greetings(greetingHandler, "Sadiya");
 greetings(greetEvening, "Saadi")
+// greetings(greetEvening, "Sadiya")
 
 function submitHandler(){
     // console.log("submit button clicked");
