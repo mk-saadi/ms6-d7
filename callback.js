@@ -11,15 +11,13 @@ function greetEvening(name){
 }
 
 greetings(greetingHandler, "Saadi");
-greetings(greetingHandler, "Sadiya");
 greetings(greetEvening, "Saadi")
-greetings(greetEvening, "Sadiya")
 
 function submitHandler(){
-    console.log("submit button clicked");
+    // console.log("submit button clicked");
 }
 
-document.getElementById("btn-submit").addEventListener("click", submitHandler)
+// document.getElementById("btn-submit").addEventListener("click", submitHandler)
 
 // >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 // const names = [
